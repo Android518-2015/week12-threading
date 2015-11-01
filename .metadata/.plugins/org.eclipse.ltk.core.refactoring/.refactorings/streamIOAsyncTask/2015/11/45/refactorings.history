@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;cs534.sample.multithread&apos; to &apos;ca.campbell.multithread&apos;&#x0A;- Original project: &apos;streamIOAsyncTask&apos;&#x0A;- Original element: &apos;streamIOAsyncTask/src/cs534.sample.multithread&apos;&#x0A;- Renamed element: &apos;streamIOAsyncTask/src/ca.campbell.multithread&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings&#x0A;- Rename subpackages of the package" description="Rename package &apos;cs534.sample.multithread&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;cs534.sample.multithread" name="ca.campbell.multithread" qualified="false" references="true" stamp="1446347881099" textual="true" version="1.0"/>
+</session>
